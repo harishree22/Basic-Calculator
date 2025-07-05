@@ -24,8 +24,9 @@ A basic **Calculator App** made with **Python** and **Tkinter**. Supports basic 
 ---
 
 ## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/20863781-b580-472d-a19b-2a87477beb54)
 
-![Calculator Screenshot](screenshot.png) 
+
 
 ---
 
